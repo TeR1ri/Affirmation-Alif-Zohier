@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">Menyelam di Semporna Archipelago, Sabah.</string>
+    <string name="affirmation2">Pulau Pangkor, Perak.</string>
+    <string name="affirmation3">Bersama Kelawar Di Taman Negara Gua Mulu, Sarawak.</string>
+    <string name="affirmation4">Mendaki Taman Negara Endau-Rompin, Johor.</string>
+    <string name="affirmation5">Bersiar-Siar Di Ladang Teh Cameron Highlands, Pahang.</string>
+    <string name="affirmation6">Snorkeling Melihat Terumbu Karang Di Pulau Perhentian, Terengganu</string>
+    <string name="affirmation7">Tokong Thean Hou, Kuala Lumpur.</string>
+    <string name="affirmation8">Muzium Warisan Baba Nyonya, Melaka.</string>
+    <string name="affirmation9">Hutan Lipur Bukit Ayer, Perlis.</string>
+    <string name="affirmation10">Taman Rempah Tropika, Pulau Pinang.</string>
+    <string name="textview">TextView</string>
+</resources>
